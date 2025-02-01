@@ -3,4 +3,4 @@ This program finds the roots of a function using Newton's Method with customizab
 
 It works on TI 84 Plus, TI 84 Plus C Silver Edition, and TI 84 Plus CE
 
-[Here](https://www.freudigman.com/post/how-to-install-ti-84-programs-from-your-computer)'s how to install it on a calculator.
+Download the latest version from [releases](https://github.com/polarbear945/NewtonsMethod/releases) and follow [these](https://www.freudigman.com/post/how-to-install-ti-84-programs-from-your-computer) instructions for how to install it on a calculator.
